@@ -1,7 +1,7 @@
 from django.test import TestCase
 from rest_framework.test import APIClient
-from LittleLemonAPI.models import Menu
-from LittleLemonAPI.serializers import MenuSerializer
+from restaurant.models import Menu
+from restaurant.serializers import MenuSerializer
 
 
 class MenuViewTest(TestCase):
