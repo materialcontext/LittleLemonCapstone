@@ -1,7 +1,7 @@
-static: /
+**static**:  /
 
-user registration: /auth/users/
+**user registration**:  /auth/users/
 
-booking: /bookings/tables/
+**booking**:  /bookings/tables/
 
-menu: /menu/
+**menu**:  /menu/
